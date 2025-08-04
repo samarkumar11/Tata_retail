@@ -23,16 +23,16 @@ This Power BI dashboard was created as part of the **Tata Data Visualization Vir
 📷 Dashboard Screenshots
 
  1. CEO – Revenue Trend (Monthly) for 2011
-![CEO Revenue Trend](./Screenshot%202025-08-04%20202639.png)
+![CEO Revenue Trend]([./Screenshot%202025-08-04%20202639.png](https://github.com/samarkumar11/Tata_retail/blob/main/Revenue%20trend.png))
 
 2. CMO – Top 10 Countries by Revenue
-![CMO Countries](./Screenshot%202025-08-04%20202845.png)
+![CMO Countries]([./Screenshot%202025-08-04%20202845.png](https://github.com/samarkumar11/Tata_retail/blob/main/top%20countries%20by%20revenue.png))
 
 3. CMO – Top 10 Customers by Revenue
-![CMO Customers](./Screenshot%202025-08-04%20203113.png)
+![CMO Customers]([./Screenshot%202025-08-04%20203113.png](https://github.com/samarkumar11/Tata_retail/blob/main/top%20customer.png))
 
 4. CEO – Country-wise Demand
-![CEO Country Demand](./Screenshot%202025-08-04%20203235.png)
+![CEO Country Demand]([./Screenshot%202025-08-04%20203235.png](https://github.com/samarkumar11/Tata_retail/blob/main/Country-wise%20Demand.png))
 
 📁 Files in This Repository
 
